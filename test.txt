@@ -1,0 +1,25 @@
+{
+           "The Eiffel Tower was completed on March 31, 1887 " : "f" ,
+           "Lightning is seen before it is heard because light travels faster than sound " : "t" ,
+           "Vatican City is a country" : "t" ,
+           "Melbourne is the capital of Australia" : "t" ,
+           "Penicillin was discovered in Vietnam to treat malaria " : " f " ,
+           "Mount Fuji is the highest mountain in Japan " : "t" ,
+           "Broccoli contains more vitamin C than lemon" : " t" ,
+           "The skull is the strongest bone in the human body" : "f" ,
+           "Electric bulbs were invented by Thomas Edison " : "f" ,
+           "Google was initially named BackRub" : "t" ,
+           "The black box in the plane is black " :"f" ,
+           "Tomato is a fruit" : "t",
+           "Mercury's atmosphere consists of carbon dioxide " : "f" ,
+           "Depression is the leading cause of disability worldwide " : "t" ,
+           "Cleopatra was of Egyptian descent " : "f" ,
+           "The skull is the strongest bone in the human body" : "f" ,
+           "You can sneeze while sleeping " : "f" ,
+           "It is impossible to sneeze with your eyes open " : "t" ,
+           "Banana is blueberry " : "t" ,
+           "Scallops can not be seen" : " f" 
+}
+
+
+
